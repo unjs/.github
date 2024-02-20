@@ -1,6 +1,6 @@
 ## License
 
-<!-- automd:contributors license=MIT author="pi0" -->
+<!-- automd:contributors license=MIT -->
 <!-- /automd -->
 
 <!-- automd:with-automd -->
