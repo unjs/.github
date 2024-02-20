@@ -12,3 +12,7 @@ This directory contains UnJS related [automd](https://automd.unjs.io) remote sni
 ```
 
 Now run `npx automd` to see the magic!
+
+## Why the files are empty?
+
+The snippet files only contain `<!-- automd -->` comments. Try to clone or view the source file.
