@@ -1,5 +1,7 @@
-Made with 💛 Published under the [MIT License](./LICENSE).
+## License
+
+<!-- automd:contributors license=MIT author="pi0" -->
+<!-- /automd -->
 
 <!-- automd:with-automd -->
-
 <!-- /automd -->

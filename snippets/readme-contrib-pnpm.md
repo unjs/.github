@@ -1,3 +1,7 @@
+## Contribution
+
+<!-- automd:fetch url="gh:unjs/.github/main/snippets/readme-contrib-pnpm.md" -->
+
 <details>
   <summary>Local development</summary>
 
@@ -8,3 +12,5 @@
 - Run tests using `pnpm dev` or `pnpm test`
 
 </details>
+
+<!-- /automd -->
