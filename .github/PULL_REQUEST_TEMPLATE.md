@@ -1,19 +1,22 @@
-
 **Reference:** #
 
 **Description:**
 
 <!--
-IMPORTANT IMPORTANT IMPORTANT IMPORTANT IMPORTANT IMPORTANT IMPORTANT IMPORTANT
+IMPORTANT IMPORTANT IMPORTANT IMPORTANT
 
-Please make sure you have followed a discussion (issue) with maintainer
-before attempting to make your PR. This will greatly help to speed up review process!
+Before opening your pull request:
 
-Title should follow conventional commits (https://conventionalcommits.org). Examples:
+- Discuss it using an issue with the maintainers
+- Try to keep your change minimal and split if necessary
+
+This will greatly help speed up the review process!
+
+PR title should follow conventional commits. Examples:
   - fix(scope): resolve xyz
-  - feat: add new feature
+  - feat: add a new feature
   - docs: improve wording
 
-IMPORTANT IMPORTANT IMPORTANT IMPORTANT IMPORTANT IMPORTANT IMPORTANT IMPORTANT
+IMPORTANT IMPORTANT IMPORTANT IMPORTANT
 -->
 
