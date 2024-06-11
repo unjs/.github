@@ -1,7 +1,6 @@
-name: "\U0001F41E Bug Report"
-description: Report an Issue or a Bug
-# Labels must be prepared in advance, otherwise no labels are applied
-labels: ["pending triage"]
+name: "🐛 Bug report"
+description: Report an issue or a bug
+labels: ["bug", "pending triage"]
 body:
   - type: markdown
     attributes:
@@ -31,7 +30,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: additonal
+    id: additional
     attributes:
       label: Additional context
       description: If applicable, add any other context about the problem here.

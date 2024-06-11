@@ -1,6 +1,6 @@
 name: 📖 Documentation
 description: Report a documentation issue or suggest an improvement
-labels: [pending triage, documentation]
+labels: ["documentation", "pending triage"]
 body:
   - type: markdown
     attributes:
